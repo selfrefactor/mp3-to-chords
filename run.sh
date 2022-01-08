@@ -1,1 +1,1 @@
-./convert.sh && ./convert-flac.sh && ./clean.sh && python experiments.py && ./clean-wav.sh && ./move-result.sh
+./convert.sh && ./convert-flac.sh && python experiments.py && ./clean.sh && ./move-result.sh
