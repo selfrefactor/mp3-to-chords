@@ -39,6 +39,7 @@ class SplitSongExperiment():
 
     def results(self):
         song_names = [ name.split(".")[0] for name in os.listdir("songs") ]
+        print("song_names", song_names)
         results = {
             "guitar": [],
         }
