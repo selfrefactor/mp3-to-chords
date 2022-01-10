@@ -16,3 +16,7 @@ pip install -r requirements.txt
 
 - Python version 3.8.0(use `pyenv` to control Python versions )
 - ffmpeg
+
+## Issues
+
+- Flac is supported but it doesn't work
