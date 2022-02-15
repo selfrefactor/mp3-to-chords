@@ -20,3 +20,9 @@ pip install -r requirements.txt
 ## Issues
 
 - Flac is supported but it doesn't work
+
+## Alternatives
+
+https://github.com/belovm96/chord-detection - promising
+
+https://github.com/discort/chord-recognition - cannot install
